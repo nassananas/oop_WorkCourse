@@ -1,0 +1,30 @@
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\Курсовая работа_ООП.exe.config
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\Курсовая работа_ООП.exe
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\Курсовая работа_ООП.pdb
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая работа_ООП.csprojAssemblyReference.cache
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая_работа_ООП.Properties.Resources.resources
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая работа_ООП.csproj.GenerateResource.cache
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая работа_ООП.exe
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая работа_ООП.pdb
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\MySql.Data.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\Google.Protobuf.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\Zstandard.Net.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\System.Memory.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\System.Buffers.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Настя\source\repos\Курсовая работа_ООП\bin\Debug\MySql.Data.xml
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая работа_ООП.exe.config
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая работа_ООП.csproj.CopyComplete
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая_работа_ООП.MainForm.resources
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая_работа_ООП.AddLesson.resources
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая_работа_ООП.AddLearner.resources
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая_работа_ООП.Attendance.resources
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая_работа_ООП.Filter.resources
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая_работа_ООП.SearchLearner.resources
+C:\Users\Настя\source\repos\Курсовая работа_ООП\obj\Debug\Курсовая_работа_ООП.Init.resources
